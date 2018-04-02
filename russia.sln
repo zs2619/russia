@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项目", "解决方案项目", "{AA2CF84B-50B0-41D3-B9FA-A2AB61808596}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "russia", "russia.vcxproj", "{26ADAB52-0514-493A-8C3D-61B5AD9BA8C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26ADAB52-0514-493A-8C3D-61B5AD9BA8C5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26ADAB52-0514-493A-8C3D-61B5AD9BA8C5}.Debug|Win32.Build.0 = Debug|Win32
+		{26ADAB52-0514-493A-8C3D-61B5AD9BA8C5}.Release|Win32.ActiveCfg = Release|Win32
+		{26ADAB52-0514-493A-8C3D-61B5AD9BA8C5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537AAB83-66F9-48B0-8183-C3961AE31B26}
+	EndGlobalSection
+EndGlobal
